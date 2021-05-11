@@ -3,5 +3,6 @@
     displayName: "Mouse Trail",
     author: "QmelZ",
     version: 1,
+    hidden: true,
     minGameVersion: 126.2
 }
